@@ -23,3 +23,13 @@ Manual testing is often looked down on in the QA field because it is slow and re
 It was really refreshing to see these myths debunked in this article. Definitely a read I recommend if you're interested in QA!
 
 ### Thank you for reading!
+
+# Sam Phelan was here
+
+I found this article very interesting because it opened my eyes to an occupation that I truly knew next-to-nothing about (which is ironic
+considering how related it is to Software Engineering). As someone who personally believed in a few of the myths mentioned in this
+article, it makes me wonder why this profession doesn't get more recognition, even though its a vital component of workforce that's crucial
+in practically every industry.
+
+I believe this may be due to the fact that QA testing isn't really taught in the CS curriculum, which itself is an interesting topic
+that isn't backed by much logic.
