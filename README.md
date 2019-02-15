@@ -1,6 +1,6 @@
-#Individual Assignment
+# Individual Assignment
 
-##The Article
+## The Article
 The article I used was [Five Myths of Testing by a Software QA](https://medium.com/cermati-tech/five-myths-of-testing-by-a-software-qa-27edb179fad).
 
 I found this article to be a good read because my past two internships have consisted of QA roles. It was interesting to see what professionals in the QA industry had to say. I was also curious to know what the five myths are. 
@@ -22,4 +22,4 @@ Manual testing is often looked down on in the QA field because it is slow and re
 
 It was really refreshing to see these myths debunked in this article. Definitely a read I recommend if you're interested in QA!
 
-###Thank you for reading!
+### Thank you for reading!
